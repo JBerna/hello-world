@@ -1,2 +1,3 @@
 # hello-world
-This is a short program that I used to create my first repository
+
+I am learning how to code and git/github is a great tool to help me organize my code.
