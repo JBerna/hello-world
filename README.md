@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+This is a short program that I used to create my first repository
